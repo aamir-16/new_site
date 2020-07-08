@@ -9,24 +9,8 @@ Website: https://freehtml5.co/
 Twitter: https://twitter.com/fh5co
 Facebook: https://facebook.com/fh5co
 
-
-CREDITS:
-
-Bootstrap
-http://getbootstrap.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-jQuery
-http://jquery.com/
-
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
-
-YU2FLV
-http://otakod.es/yu2fvl
-
+For Ref :
+https://dev.azure.com/Basic-Web-org/website/_releaseDefinition?definitionId=0&_a=action-create-definition&source=ReleaseNew&path=%5C
 Demo Images:
 http://unsplash.com
 
